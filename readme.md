@@ -2,6 +2,8 @@
 
 This is a simple plugin for [Summernote](https://summernote.org/) that makes the toolbar sticky.
 
+https://user-images.githubusercontent.com/4955440/193377819-2d6e825f-9511-41ff-96ff-36b9958761cd.mp4
+
 ## Installation
 
 ### Classic
