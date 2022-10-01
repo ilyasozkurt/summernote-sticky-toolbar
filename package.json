@@ -1,6 +1,6 @@
 {
   "name": "summernote-sticky-toolbar",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "It will keep the toolbar sticky to the top of the screen as you scroll.",
   "main": "summernote-sticky-toolbar.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "summernote",
     "sticky",
-    "tppşbar"
+    "toolbar"
   ],
   "author": {
     "name": "ilyasozkurt - İlyas Özkurt",
