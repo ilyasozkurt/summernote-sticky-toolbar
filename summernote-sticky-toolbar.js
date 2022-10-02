@@ -61,15 +61,15 @@
                 ) {
                     $toolbar
                         .css({
-                            'position': 'fixed',
+                            'position': 'sticky',
                             'top': options.offset,
-                            'width': $editor.width() + 'px',
                             'z-index': options.zIndex,
                         });
                 } else {
                     $toolbar
                         .css({
                             'position': 'static',
+                            'top': 0,
                         });
                 }
             }
