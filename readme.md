@@ -40,4 +40,4 @@ $('.summernote').summernote({
 
 Please do not forget to star the repository if you like it!
 
-Sponsored by [freestockphotos.site](https://freestockphotos.site "Free Stock Photos.site")
+Sponsored by [hometrust.app](https://hometrust.app "Property Reviews Platform")
